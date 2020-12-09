@@ -1,0 +1,33 @@
+{
+  "name": "mysecret",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "md5": "^2.3.0",
+    "mongoose": "^5.10.15",
+    "mongoose-encryption": "^2.0.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tthkit2020/TARge19-TARgv19-My-Secret-App-Level1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tthkit2020/TARge19-TARgv19-My-Secret-App-Level1/issues"
+  },
+  "homepage": "https://github.com/tthkit2020/TARge19-TARgv19-My-Secret-App-Level1#readme",
+  "description": ""
+}
